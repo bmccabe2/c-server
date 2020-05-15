@@ -1,0 +1,18 @@
+h1 {
+	font-family: Times New Roman;
+	font-size: 120px;
+	text-align:center;
+	margin: auto;
+	color: black;
+}
+body {
+	background-color: red;
+}
+img.block {
+	display: block;
+	margin: 50px auto;
+}
+
+li {
+	padding: 5px 0;
+}
